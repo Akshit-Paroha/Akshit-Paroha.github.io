@@ -30,10 +30,10 @@
   }
   
   .profile-photo {
-    width: 150px; /* Adjust width as needed */
+    width: 150px;
     height: auto;
-    border-radius: 50%; /* Makes the photo circular */
-    margin-top: 1rem; /* Adds space above the photo */
+    border-radius: 50%; 
+    margin-top: 1rem; 
   }
   
   section {
